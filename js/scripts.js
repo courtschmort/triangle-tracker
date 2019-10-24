@@ -22,7 +22,7 @@ $(document).ready(function() {
       console.log("Shit.")
     };
 
-    // if isNaN(side1)
+    // if (isNaN(side1))
 
   });
 });
